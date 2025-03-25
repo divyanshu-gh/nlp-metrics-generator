@@ -1,0 +1,13 @@
+Power BI Dashboard on Operations, Transactions, and Marketing Data, embedding the Dashboard to Web App
+
+Client: A leading tech firm in the USA
+Industry Type: IT Services
+Services: Consulting, Software, Marketing Solutions
+Organization Size: 100+
+Create a dashboard with Assets Performance With react App. So users can evaluate with Key metrics from data analytics and forecasting.
+The client requires two pages:
+Asset Report Page
+Investor Page
+We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise.
+Contact us: hello@blackcoffer.com
+© All Right Reserved, Blackcoffer(OPC) Pvt. Ltd

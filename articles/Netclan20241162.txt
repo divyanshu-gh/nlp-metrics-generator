@@ -1,0 +1,17 @@
+Budget, Sales KPI Dashboard using Power BI
+
+Presentation
+Map
+Dashboard
+API Integration
+Kibana
+Google Data Studio
+Microsoft Excel
+Microsoft Power BI
+JavaScript
+SQL
+Python
+DAX
+We provide intelligence, accelerate innovation and implement technology with extraordinary breadth and depth global insights into the big data,data-driven dashboards, applications development, and information management for organizations through combining unique, specialist services and high-lvel human expertise.
+Contact us: hello@blackcoffer.com
+© All Right Reserved, Blackcoffer(OPC) Pvt. Ltd
